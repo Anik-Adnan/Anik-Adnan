@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Anik Adnan</h1>
-<h3 align="center">Passionate software engineer skilled in Java and Flutter, aspiring to become a full stack developer. Eager to collaborate on innovative projects and continuously expand my technical expertise. Let's connect and create something amazing together!</h3>
+<h3 align="center">
+🎓 Passionate Educator | 🔐 Cybersecurity & AI Enthusiast | 💻 Software Engineer & Flutter Developer
+</h3>
+
+<p align="center">
+I am deeply passionate about <b>teaching and mentoring</b> 🎓, sharing knowledge in <b>cybersecurity concepts</b> 🔐, <b>secure system design</b>, <b>AI-driven security solutions</b> 🤖, and <b>Flutter development</b> 📱. My goal is to empower learners to build strong technical foundations and practical skills for real-world applications.
+</p>
+
+<p align="center">
+💻 Alongside education, I am a dedicated <b>software engineer</b> with expertise in <b>Java</b> ☕ and <b>Flutter</b> 💙, actively exploring <b>Machine Learning</b> 📊, <b>Deep Learning</b> 🧠, <b>NLP</b> 💬, and <b>Digital Image Processing</b> 🖼️ to create intelligent and secure solutions.
+</p>
+
+<p align="center">
+📖 I engage in <b>research-oriented projects</b> 🔬 and enjoy collaborating on <b>innovative and impactful initiatives</b> 🚀. I aim to combine teaching, technical expertise, and research to contribute meaningfully to both <b>academic</b> 🎓 and <b>professional environments</b> 💼.
+</p>
+
+<p align="center">
+🤝 <b>Let’s connect, collaborate, and inspire the next generation of tech innovators together!</b>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-adnan&label=Profile%20views&color=0e75b6&style=flat" alt="anik-adnan" /> </p>
 
